@@ -21,7 +21,7 @@ global.stickauth = '© 𝐌𝐚𝐭𝐬𝐓𝐨𝐫𝐞𝐞 𝐀𝐬𝐬𝐢𝐬
 global.fotonya = 'https://i.postimg.cc/Gtj3L17S/thumbnail.jpg'
 global.sgc = '_'
 /*============== CPANEL ==============*/
-global.domain = 'https://matstoree.paneldigitals.me' //domain
+global.domain = '' //domain
 global.capikey = 'ptlc_X22C3SNqefYl2OF8NVazxxmBKBNwZO358ZUlo2pJ129' //ptlc
 global.apikey = 'ptla_gMRewJ0I71xBtum1L6GmEEw0imEINUoedbWnuRkF9zM' //ptla
 // Info Wait
@@ -29,9 +29,9 @@ global.wait = 'harap tunggu sebentar...'
 global.eror = '⚠️ Terjadi kesalahan, coba lagi nanti!'
 global.multiplier = 69 
 // Apikey
-global.lolkey = 'RyApi',
-global.neoxr = 'Kemii';
-global.lann = 'ItsMeMatt'
+global.lolkey = '',
+global.neoxr = '';
+global.lann = ''
 
 // Catatan : Jika Mau Work Fiturnya
 // Masukan Apikeymu
